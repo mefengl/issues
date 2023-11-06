@@ -9,3 +9,9 @@ Every program contains novel features and omits someone's favorite feature. sing
 
 If it bothers you that sing-box is missing feature X, please forgive us and investigate the features that sing-box does have. You might find that they compensate in interesting ways for the lack of X.
 ```
+
+from https://github.com/rwaldron/idiomatic.js
+
+```
+All code in any code-base should look like a single person typed it, no matter how many people contributed.
+```
